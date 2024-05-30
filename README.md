@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I am Sabita Ghorai
+
+#### About Me
+
+## My Github Stats
+ 
+ ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=sabitaghorai)
 
 <!--
 **sabitaghorai/sabitaghorai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
